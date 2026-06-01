@@ -72,13 +72,13 @@
 - Authentication System
 
 ### 🎮 Escape The Room Game
-- Python
+- PHP
 - Puzzle System
 - Inventory Management
 - Interactive Gameplay
 
 ### 🧠 Memory Match Quest
-- Python
+- PHP
 - Timer
 - Levels
 - Power-Ups
@@ -132,7 +132,7 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=github" />
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/Manoj2823
 </p>
 
 ---
